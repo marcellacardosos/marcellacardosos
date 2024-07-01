@@ -12,15 +12,13 @@ My journey is guided by curiosity and a continuous desire to learn. I am excited
 
 I am open to new opportunities and eager to connect with other professionals in the field to exchange experiences and knowledge.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Python, PowerBI, SQL and Excel.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 📫 &nbsp; Reach me out: marcellasantoscardoso@gmail.com.
 
-### My Absolute Favorites:
+### My Favorites Things:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
